@@ -1,4 +1,4 @@
-# Repositorio de Estudos
+# Repositorio teste Git e GitHub
 Repositorio criado para o desafio de projeto e estudos.
 
 ## Links Úteis 
